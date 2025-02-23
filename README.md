@@ -10,5 +10,5 @@ The program prompts the user to input the following values:
 
 It then calculates the simple interest using the formula:
 
-Simple Interest = (Principal _ Rate _ Time) / 100
+Simple Interest = ((P × R × T)) / 100
 Finally, it prints the calculated simple interest.
