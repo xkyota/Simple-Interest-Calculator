@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="yyjv5VcEAxnZZRjXO7Hx">
+    <mxGraphModel dx="957" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bUPUrRo9FtAEVh816Lsr-1" target="bUPUrRo9FtAEVh816Lsr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-1" value="Simple Interest Calculator" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="313" y="50" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bUPUrRo9FtAEVh816Lsr-3" target="bUPUrRo9FtAEVh816Lsr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-3" value="Enter Principal,&amp;nbsp;Rate, Time in line, with space &amp;gt;&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="170" width="362" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bUPUrRo9FtAEVh816Lsr-5" target="bUPUrRo9FtAEVh816Lsr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-5" value="p, r, t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bUPUrRo9FtAEVh816Lsr-8" target="bUPUrRo9FtAEVh816Lsr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-8" value="si = (p * r * t) / 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="420" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bUPUrRo9FtAEVh816Lsr-11" target="bUPUrRo9FtAEVh816Lsr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-11" value="si&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUPUrRo9FtAEVh816Lsr-13" value="END" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
